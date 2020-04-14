@@ -1,0 +1,2 @@
+This program reads in 5 different graphs and uses Edmonds Karp's max-flow solution and shows the min-cut.
+The results of the max flow and min cut are shown in the output. Main is found in MaxFlow. Program runs all the demands.
